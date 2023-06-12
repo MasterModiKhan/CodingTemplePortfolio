@@ -1,0 +1,8 @@
+body{background-color: rgba(248, 211, 1, 0.925); font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+nav li { color: orangered;}
+nav{display:block ; color:darkslategrey}
+form{display: block; border-radius:8px; background-color: coral; width: 200px;}
+h1{color: aqua; width:50%}
+h2{color: darkmagenta; width:35%;}
+img{border-radius: 70px; padding: 35px; border: 10px; border-color: azure; height: 300px; width: 300px;}
+p{width:50%}
