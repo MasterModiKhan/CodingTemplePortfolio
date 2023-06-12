@@ -1,0 +1,4 @@
+body{background-color: darkgoldenrod ;}
+nav li { display: inline;}
+nav{display:block ; color:darkslategrey}
+form{display: block; background-color: coral; width: 200px;}
